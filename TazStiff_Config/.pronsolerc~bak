@@ -87,5 +87,3 @@ set tempgauges True
 set mainviz 2D
 button 15 "FanOn" /c "Blue" M106 S255
 button 16 "FanOff" /c "Blue" M106 S0
-set last_file_path /home/commonadmin/projects/_random/ComparativePrints/stl/orig
-set recentfiles ["/home/commonadmin/projects/_random/ComparativePrints/stl/orig/yoga block hinge_20160626-140626_1.2.10-dev.gcode", "/home/commonadmin/projects/_random/ComparativePrints/Gnomon_Northen_NETFABBED_20160625-191544_1.2.10-dev.gcode", "/home/commonadmin/projects/_random/HacDCOptics/staging/FiveAxisKit/FiveAxis_Substages_20160303-153105_1.2.10-dev.gcode", "/home/commonadmin/projects/_random/HacDCOptics/staging/FiveAxisKit/FiveAxis_Substages_20160303-152731_1.2.10-dev.gcode", "/home/commonadmin/projects/_random/HacDCOptics/staging/screwCaps.gcode"]
